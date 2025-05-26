@@ -1,7 +1,17 @@
-## Hi there 👋
+<h1>Hi, I'm Brandon! <br/> Aspiring IT Professional</h1>
+<h2> 📜 Certifcations </h2>
+
+- <b>CompTIA A+</b>
+- <b>CompTIA Network+</b>
+- <b>CompTIA Certified IT Operations Specialist</b>
+
+<h2>👨‍💻 IT Projects:</h2>
+
+- <b>End-to-End Network Simulation with Lifecylce Documentation</b>
+  - [Network Simulation](link to project repo)
 
 <!--
-**Brandyn117/Brandyn117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**brandyn117/brandyn117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
