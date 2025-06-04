@@ -8,7 +8,7 @@
 <h2>👨‍💻 IT Projects:</h2>
 
 - <b>End-to-End Network Simulation with Lifecylce Documentation</b>
-  - [Network Simulation](link to project repo)
+  - [Network Simulation](https://github.com/Brandyn117/End-to-End-Network-Simulation)
 
 <!--
 **brandyn117/brandyn117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
