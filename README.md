@@ -1,4 +1,4 @@
-<h1>Hi, I'm Brandon! <br/> Aspiring IT Professional</h1>
+<h1>Hi, I'm Brandon! <br/> Passionate About IT, Networking, and Cybersecurity</h1>
 <h2> 📜 Certifcations </h2>
 
 - <b>CompTIA A+</b>
