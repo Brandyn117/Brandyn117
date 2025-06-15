@@ -8,6 +8,7 @@
 
 <h2>👨‍💻 IT Projects:</h2>
 
+- [Microsoft Intune Project](https://github.com/Brandyn117/MSIntuneProject)
 - [End-to-End Cisco Network Simulation](https://github.com/Brandyn117/End-to-End-Network-Simulation)
 - [Apache CloudStack Pod Setup Project](https://github.com/Brandyn117/Apache-CloudStack-Pod-Setup-Lab)
 - [VirtualBox Active Directory Project](https://github.com/Brandyn117/VirtualBox-Active-Directory-Project)
