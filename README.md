@@ -4,7 +4,7 @@
 - <b>CompTIA A+</b>
 - <b>CompTIA Network+</b>
 - <b>CompTIA Certified IT Operations Specialist</b>
-- <b>CompTIA Security+ In Progress</b>
+- <b>CompTIA Security+</b>
 
 <h2>👨‍💻 IT Projects:</h2>
 
